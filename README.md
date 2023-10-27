@@ -1,2 +1,2 @@
 # About
-Repository with NodeJS concepts, vanilla features, basic apis made with most used frameworks and testing with Jest.
+Review of NodeJs concepts, vanilla features and basic apis workflow with frameworks.
